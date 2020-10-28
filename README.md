@@ -1,14 +1,12 @@
-# rave_flutter_example
-
+# FlutterWave Payment Implimentation for Flutter Apps
 Demonstrates how to use the rave_flutter plugin.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Get your Keys and add to your main.dart file
+- [Create a flutterwave account](https://dashboard.flutterwave.com)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+Check other Flutter Samples to get you on your feet
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our 
